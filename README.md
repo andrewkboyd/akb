@@ -19,25 +19,26 @@ $ omf install akb
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
+* Ultra minimalistic
+* vi-mode support
+* error status on non-zero exit code
 
 
 ## Screenshot
 
 <p align="center">
-<img src="{{SCREENSHOT_URL}}">
+<img src="screenshot.png">
 </p>
 
 
 # License
 
-[MIT][mit] © [{{USER}}][author] et [al][contributors]
+[MIT][mit] © [andrewkboyd][author] et [al][contributors]
 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/theme-akb/graphs/contributors
+[author]:         https://github.com/andrewkboyd
+[contributors]:   https://github.com/andrewkboyd/theme-akb/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
