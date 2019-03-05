@@ -1,4 +1,5 @@
 function fish_prompt
+  set fish_command_color yellow
   switch $fish_bind_mode
     case default
       set_color red
